@@ -4,15 +4,18 @@ Command-line utility that simplifies viewing of MacOS kernel panics in your term
 
 ## Installation
 
-### Manual
-
-- Go to releases page and download latest tar.gz archive.
-- Unpack it
-- Move binary to /usr/local/bin/kpanic
-
 ### Homebrew
 
-- To be done
+```
+brew tap rpeshkov/kpanic
+brew install rpeshkov/kpanic/kpanic
+```
+
+### Manual
+
+- Go to [releases](releases) page and download latest tar.gz archive.
+- Unpack it
+- Move binary to /usr/local/bin/kpanic
 
 ## Commands
 
